@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/neitram/static/css/main.02382499.css",
-    "main.js": "/neitram/static/js/main.cf76b39a.js",
+    "main.js": "/neitram/static/js/main.6ddde2ba.js",
     "static/js/453.bfff052a.chunk.js": "/neitram/static/js/453.bfff052a.chunk.js",
     "index.html": "/neitram/index.html",
     "main.02382499.css.map": "/neitram/static/css/main.02382499.css.map",
-    "main.cf76b39a.js.map": "/neitram/static/js/main.cf76b39a.js.map",
+    "main.6ddde2ba.js.map": "/neitram/static/js/main.6ddde2ba.js.map",
     "453.bfff052a.chunk.js.map": "/neitram/static/js/453.bfff052a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.02382499.css",
-    "static/js/main.cf76b39a.js"
+    "static/js/main.6ddde2ba.js"
   ]
 }
